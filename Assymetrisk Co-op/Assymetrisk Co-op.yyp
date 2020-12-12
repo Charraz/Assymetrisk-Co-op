@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_cube","path":"sprites/spr_cube/spr_cube.yy",},"order":0,},
+    {"id":{"name":"spr_kub","path":"sprites/spr_kub/spr_kub.yy",},"order":2,},
     {"id":{"name":"spr_ForTheWin","path":"sprites/spr_ForTheWin/spr_ForTheWin.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
