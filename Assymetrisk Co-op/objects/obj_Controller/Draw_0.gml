@@ -1,4 +1,3 @@
 /// @description Insert description here
 // You can write your code in this editor
-randomise();
-global.NPCAlive = true;
+draw_text(200, 200, alarm[0]);
