@@ -1,6 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-hsp = 0;
-vsp = 0;
-walksp = 4;
-canShoot = true;
+draw_self();
+
+draw_text(100, 100, alarm[0]);
