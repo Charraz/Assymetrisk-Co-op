@@ -38,12 +38,5 @@ if (place_meeting(x, y + vsp, obj_Solid))
 y = y + vsp;
 
 //Sprite direction change
-if (key_left)
-{
-	image_xscale = -1;
-}
 
-if (key_right)
-{
-	image_xscale = 1;
-}
+//https://forum.yoyogames.com/index.php?threads/solved-how-can-i-make-an-object-face-the-right-direction-when-on-a-path.19243/
