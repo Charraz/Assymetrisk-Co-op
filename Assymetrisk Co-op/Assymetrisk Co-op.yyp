@@ -16,6 +16,7 @@
     {"id":{"name":"obj_Player1","path":"objects/obj_Player1/obj_Player1.yy",},"order":0,},
     {"id":{"name":"spr_Blood","path":"sprites/spr_Blood/spr_Blood.yy",},"order":0,},
     {"id":{"name":"spr_NPC","path":"sprites/spr_NPC/spr_NPC.yy",},"order":8,},
+    {"id":{"name":"spr_Building3Shooting","path":"sprites/spr_Building3Shooting/spr_Building3Shooting.yy",},"order":7,},
     {"id":{"name":"spr_Lazer","path":"sprites/spr_Lazer/spr_Lazer.yy",},"order":2,},
     {"id":{"name":"spr_Building2Transparent","path":"sprites/spr_Building2Transparent/spr_Building2Transparent.yy",},"order":2,},
     {"id":{"name":"obj_Drop","path":"objects/obj_Drop/obj_Drop.yy",},"order":3,},
