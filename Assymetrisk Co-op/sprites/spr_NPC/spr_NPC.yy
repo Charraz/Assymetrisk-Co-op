@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 459,
+  "bbox_right": 63,
   "bbox_top": 0,
-  "bbox_bottom": 275,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 460,
-  "height": 276,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"3a1f20f3-11e7-4c65-8303-c46431de863c","path":"sprites/spr_NPC/spr_NPC.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3a1f20f3-11e7-4c65-8303-c46431de863c","path":"sprites/spr_NPC/spr_NPC.yy",},"LayerId":{"name":"2dd42160-234c-447d-9e2a-b4bb6d80350b","path":"sprites/spr_NPC/spr_NPC.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_NPC","path":"sprites/spr_NPC/spr_NPC.yy",},"resourceVersion":"1.0","name":"3a1f20f3-11e7-4c65-8303-c46431de863c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"4283245e-eea9-47ab-b089-811bcb3f1ce9","path":"sprites/spr_NPC/spr_NPC.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"4283245e-eea9-47ab-b089-811bcb3f1ce9","path":"sprites/spr_NPC/spr_NPC.yy",},"LayerId":{"name":"a6f42b72-16da-4242-be49-0e5de0095987","path":"sprites/spr_NPC/spr_NPC.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_NPC","path":"sprites/spr_NPC/spr_NPC.yy",},"resourceVersion":"1.0","name":"4283245e-eea9-47ab-b089-811bcb3f1ce9","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_NPC","path":"sprites/spr_NPC/spr_NPC.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c7c186d9-5423-4654-bacf-a46a5e48a8fc","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3a1f20f3-11e7-4c65-8303-c46431de863c","path":"sprites/spr_NPC/spr_NPC.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"79b4813a-4323-417d-b976-34e9af7956e0","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"4283245e-eea9-47ab-b089-811bcb3f1ce9","path":"sprites/spr_NPC/spr_NPC.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,8 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 230,
-    "yorigin": 138,
+    "xorigin": 32,
+    "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_NPC","path":"sprites/spr_NPC/spr_NPC.yy",},
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2dd42160-234c-447d-9e2a-b4bb6d80350b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"a6f42b72-16da-4242-be49-0e5de0095987","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
