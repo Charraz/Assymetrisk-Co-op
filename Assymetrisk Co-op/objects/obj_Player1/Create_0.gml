@@ -3,4 +3,3 @@
 hsp = 0;
 vsp = 0;
 walksp = 4;
-canShoot = true;
