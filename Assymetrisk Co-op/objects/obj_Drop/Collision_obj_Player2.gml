@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+instance_destroy();
 
-draw_text(room_width / 2, 10, global.cash);
+global.cash += 1;

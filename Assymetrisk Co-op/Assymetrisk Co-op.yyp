@@ -6,6 +6,7 @@
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},"order":0,},
     {"id":{"name":"obj_Building3Placed","path":"objects/obj_Building3Placed/obj_Building3Placed.yy",},"order":8,},
     {"id":{"name":"spr_Bullet","path":"sprites/spr_Bullet/spr_Bullet.yy",},"order":8,},
+    {"id":{"name":"aud_MechDeath","path":"sounds/aud_MechDeath/aud_MechDeath.yy",},"order":6,},
     {"id":{"name":"obj_Player2","path":"objects/obj_Player2/obj_Player2.yy",},"order":5,},
     {"id":{"name":"obj_Controller2","path":"objects/obj_Controller2/obj_Controller2.yy",},"order":1,},
     {"id":{"name":"spr_Enemy","path":"sprites/spr_Enemy/spr_Enemy.yy",},"order":0,},

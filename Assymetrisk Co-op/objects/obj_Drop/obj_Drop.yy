@@ -20,7 +20,10 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Player1","path":"objects/obj_Player1/obj_Player1.yy",},"parent":{"name":"obj_Drop","path":"objects/obj_Drop/obj_Drop.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Player2","path":"objects/obj_Player2/obj_Player2.yy",},"parent":{"name":"obj_Drop","path":"objects/obj_Drop/obj_Drop.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
