@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"spr_Building2B","path":"sprites/spr_Building2B/spr_Building2B.yy",},"order":8,},
     {"id":{"name":"obj_Player2","path":"objects/obj_Player2/obj_Player2.yy",},"order":5,},
     {"id":{"name":"spr_Building1Transparent","path":"sprites/spr_Building1Transparent/spr_Building1Transparent.yy",},"order":6,},
     {"id":{"name":"obj_Player1","path":"objects/obj_Player1/obj_Player1.yy",},"order":0,},
