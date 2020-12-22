@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if (canShoot = true)
 {
-	instance_create_layer(x, y, "Instances", obj_Lazer);
+	instance_create_layer(obj_Player1.x, obj_Player1.y, "Instances", obj_Lazer);
 	canShoot = false;
 }
 
