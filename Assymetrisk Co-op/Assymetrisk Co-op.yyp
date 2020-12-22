@@ -8,6 +8,8 @@
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":4,},
     {"id":{"name":"obj_lazer","path":"objects/obj_lazer/obj_lazer.yy",},"order":6,},
     {"id":{"name":"spr_Block","path":"sprites/spr_Block/spr_Block.yy",},"order":1,},
+    {"id":{"name":"spr_testooo","path":"sprites/spr_testooo/spr_testooo.yy",},"order":7,},
+    {"id":{"name":"spr_Building2","path":"sprites/spr_Building2/spr_Building2.yy",},"order":7,},
     {"id":{"name":"spr_lazer","path":"sprites/spr_lazer/spr_lazer.yy",},"order":4,},
     {"id":{"name":"spr_Tree","path":"sprites/spr_Tree/spr_Tree.yy",},"order":2,},
     {"id":{"name":"spr_Player1","path":"sprites/spr_Player1/spr_Player1.yy",},"order":0,},
