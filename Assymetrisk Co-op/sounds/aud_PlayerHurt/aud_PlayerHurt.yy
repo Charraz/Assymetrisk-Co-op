@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_PlayerHurt",
-  "duration": 0.0,
+  "soundFile": "aud_PlayerHurt.mp3",
+  "duration": 1.415612,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

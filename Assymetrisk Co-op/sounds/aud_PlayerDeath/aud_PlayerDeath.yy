@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_PlayerDeath",
-  "duration": 0.0,
+  "soundFile": "aud_PlayerDeath.mp3",
+  "duration": 2.408265,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

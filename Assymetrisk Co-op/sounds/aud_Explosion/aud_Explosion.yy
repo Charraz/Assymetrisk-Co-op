@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_Explosion",
-  "duration": 0.0,
+  "soundFile": "aud_Explosion.mp3",
+  "duration": 3.087449,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
