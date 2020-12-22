@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_BuildingTransparent",
-    "path": "sprites/spr_BuildingTransparent/spr_BuildingTransparent.yy",
+    "name": "spr_Building1Transparent",
+    "path": "sprites/spr_Building1Transparent/spr_Building1Transparent.yy",
   },
   "solid": false,
   "visible": true,
