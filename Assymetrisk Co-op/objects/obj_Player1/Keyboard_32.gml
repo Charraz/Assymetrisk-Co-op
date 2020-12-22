@@ -6,7 +6,7 @@ if (canShoot = true)
 	canShoot = false;
 }
 
-if (canShoot = false)
+if (canShoot = false && alarm[0] < 0)
 {
 	alarm[0] = 1 * room_speed;
 }
