@@ -13,6 +13,7 @@
     {"id":{"name":"spr_testooo","path":"sprites/spr_testooo/spr_testooo.yy",},"order":7,},
     {"id":{"name":"spr_Building2","path":"sprites/spr_Building2/spr_Building2.yy",},"order":7,},
     {"id":{"name":"spr_Player1","path":"sprites/spr_Player1/spr_Player1.yy",},"order":0,},
+    {"id":{"name":"spr_testooo10","path":"sprites/spr_testooo10/spr_testooo10.yy",},"order":8,},
     {"id":{"name":"spr_Player2","path":"sprites/spr_Player2/spr_Player2.yy",},"order":3,},
     {"id":{"name":"obj_Solid","path":"objects/obj_Solid/obj_Solid.yy",},"order":2,},
     {"id":{"name":"obj_Block","path":"objects/obj_Block/obj_Block.yy",},"order":1,},
