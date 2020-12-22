@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_MechDeath",
-  "duration": 0.0,
+  "soundFile": "aud_MechDeath.mp3",
+  "duration": 3.087449,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

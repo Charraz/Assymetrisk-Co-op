@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_Splat",
-  "duration": 0.0,
+  "soundFile": "aud_Splat.mp3",
+  "duration": 0.971531,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

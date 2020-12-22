@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_Build",
-  "duration": 0.0,
+  "soundFile": "aud_Build.mp3",
+  "duration": 3.74051,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
