@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_Lazer",
-  "duration": 0.0,
+  "soundFile": "aud_Lazer.mp3",
+  "duration": 0.422959,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
