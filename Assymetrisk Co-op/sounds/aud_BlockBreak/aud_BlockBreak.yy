@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_Explosion.mp3",
+  "soundFile": "aud_BlockBreak.mp3",
   "duration": 3.087449,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "aud_Explosion",
+  "name": "aud_BlockBreak",
   "tags": [],
   "resourceType": "GMSound",
 }
