@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_Building2",
+    "path": "sprites/spr_Building2/spr_Building2.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

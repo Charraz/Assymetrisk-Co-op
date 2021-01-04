@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_Building3",
+    "path": "sprites/spr_Building3/spr_Building3.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
