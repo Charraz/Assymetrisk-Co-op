@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "spr_Enemy",
-    "path": "sprites/spr_Enemy/spr_Enemy.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_EnemyParent",
-    "path": "objects/obj_EnemyParent/obj_EnemyParent.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -31,7 +25,7 @@
     "path": "folders/Objects/Enemies.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Enemy2",
+  "name": "obj_EnemyParent",
   "tags": [],
   "resourceType": "GMObject",
 }

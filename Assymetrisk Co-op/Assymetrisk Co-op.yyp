@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"obj_Enemy3","path":"objects/obj_Enemy3/obj_Enemy3.yy",},"order":2,},
+    {"id":{"name":"obj_EnemyParent","path":"objects/obj_EnemyParent/obj_EnemyParent.yy",},"order":3,},
     {"id":{"name":"aud_PlayerDeath","path":"sounds/aud_PlayerDeath/aud_PlayerDeath.yy",},"order":3,},
     {"id":{"name":"spr_Explosion","path":"sprites/spr_Explosion/spr_Explosion.yy",},"order":1,},
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},"order":0,},

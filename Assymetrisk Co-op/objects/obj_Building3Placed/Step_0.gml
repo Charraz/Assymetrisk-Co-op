@@ -1,0 +1,1 @@
+if distance_to_object(obj_Player2) < 64
