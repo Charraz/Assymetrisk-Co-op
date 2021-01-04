@@ -6,3 +6,5 @@ walksp = 4;
 canShoot = true;
 
 image_angle = 0;
+image_xscale = image_xscale * 1.1;
+image_yscale = image_yscale * 1.1;

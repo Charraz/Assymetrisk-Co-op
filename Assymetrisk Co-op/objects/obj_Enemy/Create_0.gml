@@ -8,4 +8,5 @@ healthbar_width = 64;
 healthbar_height = 12;
 
 speed = 1.5;
-
+image_xscale = image_xscale * 2;
+image_yscale = image_yscale * 2;

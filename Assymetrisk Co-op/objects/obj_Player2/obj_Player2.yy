@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_Player2",
-    "path": "sprites/spr_Player2/spr_Player2.yy",
+    "name": "spr_Player2Down",
+    "path": "sprites/spr_Player2Down/spr_Player2Down.yy",
   },
   "solid": false,
   "visible": true,

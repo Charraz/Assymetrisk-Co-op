@@ -23,6 +23,19 @@ if (place_meeting(x + hsp, y, obj_Solid))
 
 x = x + hsp;
 
+//Sprite direction change
+if (hsp < 0)
+{
+	sprite_index = spr_Player2Horizontal;
+	image_xscale = -1.3;
+}
+
+if (hsp > 0)
+{
+	sprite_index = spr_Player2Horizontal;
+	image_xscale = 1.3;
+}
+
 //Vertical Collision
 if (place_meeting(x, y + vsp, obj_Solid))
 {
@@ -34,3 +47,19 @@ if (place_meeting(x, y + vsp, obj_Solid))
 }
 
 y = y + vsp;
+
+//Sprite direction change
+if (vsp < 0)
+{
+	sprite_index = spr_Player2Up;
+}
+
+if (vsp > 0)
+{
+	sprite_index = spr_Player2Down;
+}
+
+if (vsp == 0 && hsp == 0)
+{
+	sprite_index = spr_Player2_Idle;
+}
