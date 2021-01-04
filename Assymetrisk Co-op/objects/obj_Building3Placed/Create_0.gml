@@ -1,0 +1,1 @@
+ShotCooldown = 10
