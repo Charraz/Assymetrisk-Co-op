@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ee5685bb-b6a9-450f-ad9f-dcae11ccdc0b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Buildings",
-    "path": "folders/Sprites/Buildings.yy",
+    "name": "Effects",
+    "path": "folders/Sprites/Effects.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Bullet",
