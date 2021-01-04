@@ -29,11 +29,13 @@ x = x + hsp;
 if (hsp < 0)
 {
 	image_angle = 90;
+	sprite_index = spr_Player1;
 }
 
-else if (hsp > 0)
+if (hsp > 0)
 {
 	image_angle = 270;
+	sprite_index = spr_Player1;
 }
 
 //Vertical Collision
@@ -52,11 +54,17 @@ y = y + vsp;
 if (vsp < 0)
 {
 	image_angle = 0;
+	sprite_index = spr_Player1;
 }
 
-else if (vsp > 0)
+if (vsp > 0)
 {
 	image_angle = 180;
+	sprite_index = spr_Player1;
 }
 
+if (vsp == 0 && hsp == 0)
+{
+	sprite_index = spr_Player1_Idle;
+}
 
