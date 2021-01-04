@@ -5,4 +5,4 @@ vsp = 0;
 walksp = 4;
 canShoot = true;
 
-image_angle = 90;
+image_angle = 0;

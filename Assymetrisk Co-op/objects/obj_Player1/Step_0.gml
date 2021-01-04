@@ -25,6 +25,17 @@ if (place_meeting(x + hsp, y, obj_Solid))
 
 x = x + hsp;
 
+//Sprite direction change
+if (hsp < 0)
+{
+	image_angle = 90;
+}
+
+else if (hsp > 0)
+{
+	image_angle = 270;
+}
+
 //Vertical Collision
 if (place_meeting(x, y + vsp, obj_Solid))
 {
@@ -38,5 +49,14 @@ if (place_meeting(x, y + vsp, obj_Solid))
 y = y + vsp;
 
 //Sprite direction change
+if (vsp < 0)
+{
+	image_angle = 0;
+}
 
-//https://forum.yoyogames.com/index.php?threads/solved-how-can-i-make-an-object-face-the-right-direction-when-on-a-path.19243/
+else if (vsp > 0)
+{
+	image_angle = 180;
+}
+
+
