@@ -67,4 +67,3 @@ if (vsp == 0 && hsp == 0)
 {
 	sprite_index = spr_Player1_Idle;
 }
-
