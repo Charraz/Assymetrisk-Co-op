@@ -5,4 +5,5 @@ if distance_to_object(obj_Player2) < 64 && cost <= global.cash
    instance_destroy(obj_BuildRange)
    instance_destroy()
    global.cash -= cost;
+   obj_Player2.CanBuild = true
    }
