@@ -1,13 +1,16 @@
 {
   "spriteId": {
-    "name": "spr_Solid",
-    "path": "sprites/spr_Solid/spr_Solid.yy",
+    "name": "spr_Tree1",
+    "path": "sprites/spr_Tree1/spr_Tree1.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_Solid",
+    "path": "objects/obj_Solid/obj_Solid.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -28,7 +31,7 @@
     "path": "folders/Objects/Level.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Solid",
+  "name": "obj_Tree1",
   "tags": [],
   "resourceType": "GMObject",
 }

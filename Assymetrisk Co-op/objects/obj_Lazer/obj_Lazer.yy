@@ -22,6 +22,10 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Lazer","path":"objects/obj_Lazer/obj_Lazer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Tree1","path":"objects/obj_Tree1/obj_Tree1.yy",},"parent":{"name":"obj_Lazer","path":"objects/obj_Lazer/obj_Lazer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Tree2","path":"objects/obj_Tree2/obj_Tree2.yy",},"parent":{"name":"obj_Lazer","path":"objects/obj_Lazer/obj_Lazer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_Lazer","path":"objects/obj_Lazer/obj_Lazer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_Castle","path":"objects/obj_Castle/obj_Castle.yy",},"parent":{"name":"obj_Lazer","path":"objects/obj_Lazer/obj_Lazer.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
