@@ -2,6 +2,10 @@
 randomise();
 global.NPCAlive = true;
 
-global.cash = 0;
+global.cash = 10;
 
-window_set_fullscreen(true);
+global.castleHealth = 5;
+
+global.playerScore = 0;
+
+window_set_fullscreen(false);

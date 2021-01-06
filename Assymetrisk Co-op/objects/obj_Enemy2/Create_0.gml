@@ -1,17 +1,19 @@
+/// @description Insert description here
+// You can write your code in this editor
 
 bleeding = false;
 bleedtimer = 120;
 stopped = false;
 DMGtimer = 120;
 
-HP = 50;
+HP = 100;
 HP_max = HP;
-DMG = 10;
+DMG = 20;
 
 healthbar_width = 64;
 healthbar_height = 12;
 
-movespeed = 1.5;
+movespeed = 1;
 image_xscale = image_xscale * 2;
 image_yscale = image_yscale * 2;
 

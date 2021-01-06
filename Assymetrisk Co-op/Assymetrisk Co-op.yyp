@@ -69,6 +69,7 @@
     {"id":{"name":"obj_Building3ButtonTransparent","path":"objects/obj_Building3ButtonTransparent/obj_Building3ButtonTransparent.yy",},"order":7,},
     {"id":{"name":"obj_Block","path":"objects/obj_Block/obj_Block.yy",},"order":0,},
     {"id":{"name":"RPG_Nature_Tileset","path":"sprites/RPG_Nature_Tileset/RPG_Nature_Tileset.yy",},"order":0,},
+    {"id":{"name":"spr_fHealthbar","path":"sprites/spr_fHealthbar/spr_fHealthbar.yy",},"order":8,},
     {"id":{"name":"obj_Building2ButtonTransparent","path":"objects/obj_Building2ButtonTransparent/obj_Building2ButtonTransparent.yy",},"order":4,},
     {"id":{"name":"aud_Splat","path":"sounds/aud_Splat/aud_Splat.yy",},"order":2,},
     {"id":{"name":"obj_Bullet","path":"objects/obj_Bullet/obj_Bullet.yy",},"order":4,},
