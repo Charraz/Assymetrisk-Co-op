@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
 
 enemySpawnLeft = irandom_range(1, 1000);
 enemySpawnRight = irandom_range(1, 1000);
