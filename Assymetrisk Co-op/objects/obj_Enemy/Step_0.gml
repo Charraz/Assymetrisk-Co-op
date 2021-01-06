@@ -1,7 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
-
- if (global.NPCAlive == true)
+if (global.NPCAlive == true)
 {
 	ex = instance_nearest(x, y, obj_NPC).x;
 	ey = instance_nearest(x, y, obj_NPC).y;
