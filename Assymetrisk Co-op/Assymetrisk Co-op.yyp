@@ -24,6 +24,7 @@
     {"id":{"name":"spr_Building1Transparent","path":"sprites/spr_Building1Transparent/spr_Building1Transparent.yy",},"order":6,},
     {"id":{"name":"spr_Enemy3","path":"sprites/spr_Enemy3/spr_Enemy3.yy",},"order":2,},
     {"id":{"name":"spr_eHealthbar_Border","path":"sprites/spr_eHealthbar_Border/spr_eHealthbar_Border.yy",},"order":6,},
+    {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},"order":1,},
     {"id":{"name":"spr_Player1_Idle","path":"sprites/spr_Player1_Idle/spr_Player1_Idle.yy",},"order":22,},
     {"id":{"name":"obj_Player1","path":"objects/obj_Player1/obj_Player1.yy",},"order":0,},
     {"id":{"name":"spr_Player2Up","path":"sprites/spr_Player2Up/spr_Player2Up.yy",},"order":25,},
@@ -96,6 +97,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

@@ -6,7 +6,7 @@ DMGtimer = DMGtimer - 1;
 
 if (DMGtimer <= 0)
 {
-	obj_Building2Placed.HP -= DMG;
+	other.HP -= DMG;
 	DMGtimer = 120;
 	audio_play_sound(choose(aud_eAttack1, aud_eAttack2), 1, false)
 }
