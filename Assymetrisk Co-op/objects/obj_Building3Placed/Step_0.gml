@@ -23,4 +23,7 @@ if distance_to_object(obj_EnemyParent) > 200
 	image_angle = image_angle + 0.5
 	}
 	
-	
+if (Shotsleft <= 0)
+{
+	instance_destroy();
+}
