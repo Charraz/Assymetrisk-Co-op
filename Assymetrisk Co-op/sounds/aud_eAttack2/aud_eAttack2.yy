@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.1,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_PlayerHurt.mp3",
-  "duration": 1.415612,
+  "soundFile": "aud_eAttack2.mp3",
+  "duration": 1.023776,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "aud_PlayerHurt",
+  "name": "aud_eAttack2",
   "tags": [],
   "resourceType": "GMSound",
 }

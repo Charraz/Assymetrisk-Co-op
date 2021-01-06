@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_NPC",
-    "path": "sprites/spr_NPC/spr_NPC.yy",
+    "name": "spr_Castle",
+    "path": "sprites/spr_Castle/spr_Castle.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_NPC","path":"objects/obj_NPC/obj_NPC.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"obj_NPC","path":"objects/obj_NPC/obj_NPC.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Castle","path":"objects/obj_Castle/obj_Castle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"obj_Castle","path":"objects/obj_Castle/obj_Castle.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_NPC",
+  "name": "obj_Castle",
   "tags": [],
   "resourceType": "GMObject",
 }

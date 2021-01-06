@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.2,
+  "volume": 0.1,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_Splat.mp3",
-  "duration": 0.971531,
+  "soundFile": "aud_eAttack1.mp3",
+  "duration": 0.893163,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "aud_Splat",
+  "name": "aud_eAttack1",
   "tags": [],
   "resourceType": "GMSound",
 }

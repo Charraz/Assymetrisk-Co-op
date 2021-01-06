@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "aud_PlayerDeath.mp3",
-  "duration": 2.408265,
+  "soundFile": "aud_eAttack1",
+  "duration": 0.0,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "aud_PlayerDeath",
+  "name": "aud_eAttack1",
   "tags": [],
   "resourceType": "GMSound",
 }
