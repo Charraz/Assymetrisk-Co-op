@@ -29,6 +29,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Building2Button","path":"objects/obj_Building2Button/obj_Building2Button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":448.0,"resourceVersion":"1.0","name":"inst_647B65EC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_Building1Button","path":"objects/obj_Building1Button/obj_Building1Button.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":320.0,"resourceVersion":"1.0","name":"inst_75CC9218","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
+    {"instances":[],"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Buildings","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"ts_Level","path":"tilesets/ts_Level/ts_Level.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":43,"SerialiseHeight":24,"TileSerialiseData":[
 40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,40,81,81,81,81,81,82,80,141,141,40,40,40,40,68,106,106,107,41,41,41,41,41,41,41,41,41,41,
 40,40,63,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,102,80,141,141,40,68,106,106,107,41,41,41,41,41,41,41,41,41,41,41,41,41,
@@ -54,7 +55,7 @@
 101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,102,80,87,41,85,82,100,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,101,
 61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,84,87,41,85,83,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,61,
 40,40,40,40,40,40,81,81,81,81,81,40,40,40,40,40,40,40,40,40,87,41,85,81,81,81,81,81,81,81,81,81,81,81,81,81,81,81,81,81,81,81,40,
-],},"visible":true,"depth":400,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TileLayer1","tags":[],"resourceType":"GMRTileLayer",},
+],},"visible":true,"depth":500,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"TileLayer1","tags":[],"resourceType":"GMRTileLayer",},
   ],
   "inheritLayers": false,
   "creationCodeFile": "",

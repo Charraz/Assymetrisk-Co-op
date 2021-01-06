@@ -1,5 +1,6 @@
 
 randomise();
+audio_play_sound(aud_Music, 1, true)
 global.NPCAlive = true;
 
 global.cash = 10;

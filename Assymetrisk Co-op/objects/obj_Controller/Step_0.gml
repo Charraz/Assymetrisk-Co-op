@@ -1,7 +1,6 @@
 
 enemySpawn1 = irandom_range(1, 1000);
 
-
 if (enemySpawn1 > 994)
 {
 	instance_create_layer(0, 0, "Instances", obj_Enemy);

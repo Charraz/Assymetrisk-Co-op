@@ -3,6 +3,7 @@
 if (canShoot = true)
 {
 	instance_create_layer(obj_Player1.x, obj_Player1.y, "Instances", obj_Lazer);
+	audio_play_sound(aud_Lazer, 1, false)
 	canShoot = false;
 }
 

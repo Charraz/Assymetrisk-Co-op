@@ -10,6 +10,7 @@ if distance_to_object(obj_EnemyParent) <= 200
 		with (instance_create_layer(x, y, "Instances", obj_Bullet))
 			{
 			direction = point_direction(x, y, ex, ey);
+			audio_play_sound(aud_Turret, 1, false);
 			}
 		ShotCooldown = 10
 		Shotsleft -= 1
