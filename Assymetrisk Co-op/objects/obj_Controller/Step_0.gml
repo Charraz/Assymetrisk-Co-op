@@ -1,19 +1,77 @@
 
 enemySpawn1 = irandom_range(1, 1000);
 
-if (enemySpawn1 > 994)
+if (global.playerScore <= 200)
 {
-	instance_create_layer(0, 0, "Instances", obj_Enemy);
+	if (enemySpawn1 > 994)
+	{
+		instance_create_layer(0, 0, "Instances", obj_Enemy);
 	
+	}
 }
 
-enemySpawn2 = irandom_range(1, 1000);
-
-
-if (enemySpawn2 > 997)
+else if (global.playerScore >= 200 && global.playerScore <= 500)
 {
-	instance_create_layer(0, 0, "Instances", obj_Enemy2);
 	
+{
+	if (enemySpawn1 > 994)
+	{
+		instance_create_layer(0, 0, "Instances", obj_Enemy);
+	
+	}
+}
+
+	enemySpawn2 = irandom_range(1, 1000);
+
+
+	if (enemySpawn2 > 997)
+	{	
+		instance_create_layer(0, 0, "Instances", obj_Enemy2);
+	
+	}
+}
+
+
+else if (global.playerScore >= 500 && global.playerScore <= 1000)
+{
+	
+{
+	if (enemySpawn1 > 992)
+	{
+		instance_create_layer(0, 0, "Instances", obj_Enemy);
+	
+	}
+}
+
+	enemySpawn2 = irandom_range(1, 1000);
+
+
+	if (enemySpawn2 > 995)
+	{	
+		instance_create_layer(0, 0, "Instances", obj_Enemy2);
+	
+	}
+}
+
+else if (global.playerScore >= 1000)
+{
+	
+{
+	if (enemySpawn1 > 990)
+	{
+		instance_create_layer(0, 0, "Instances", obj_Enemy);
+	
+	}
+}
+
+	enemySpawn2 = irandom_range(1, 1000);
+
+
+	if (enemySpawn2 > 990)
+	{	
+		instance_create_layer(0, 0, "Instances", obj_Enemy2);
+	
+	}
 }
 
 if (global.NPCAlive == false && alarm[0] == -1)
