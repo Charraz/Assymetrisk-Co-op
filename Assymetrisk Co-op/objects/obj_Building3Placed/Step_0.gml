@@ -12,6 +12,7 @@ if distance_to_object(obj_EnemyParent) <= 200
 			direction = point_direction(x, y, ex, ey);
 			}
 		ShotCooldown = 10
+		Shotsleft -= 1
 		}
 	ShotCooldown -= 1
 	}

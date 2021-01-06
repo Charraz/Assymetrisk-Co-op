@@ -1,3 +1,3 @@
 
 draw_text(45, 207, global.cash);
-draw_sprite(obj_DropButton, image_index, 15, 207)
+draw_sprite(spr_Drop, 0, 17, 217)
